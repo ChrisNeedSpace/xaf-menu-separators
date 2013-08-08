@@ -10,9 +10,7 @@ Compatible with XAF versions:
 -----------
 Description
 -----------
-This is a feature for **DevExpress eXpressAppFramework (XAF)** that provides Separators for Horizontal menu - simple easy-defined mechanism that integrates the navigation bar.
-
-Screenshot: 
+This is a feature for **DevExpress eXpressAppFramework (XAF)** that provides Separators for Horizontal menu - simple easy-defined mechanism that integrates the navigation bar:
 
 .. image:: https://raw.github.com/KrzysztofKielce/xaf-menu-separators/master/Screenshot.png
 
