@@ -14,7 +14,7 @@ This is a feature for **DevExpress eXpressAppFramework (XAF)** that provides Sep
 
 Screenshot: 
 
-.. image:: https://github.com/KrzysztofKielce/xaf-menu-separators/blob/master/Screenshot.png
+.. image:: https://raw.github.com/KrzysztofKielce/xaf-menu-separators/master/Screenshot.png
 
 
 **HOW TO**
