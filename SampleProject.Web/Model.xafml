@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <Item Id="Projekt_ListView" BeginGroup="True" />
+          <Item Id="Projekt_ListView_Copy" ViewId="Projekt_ListView" ObjectKey="" Caption="Projekt Clone" BeginGroup="True" IsNewNode="True" />
+          <Item Id="Projekt_ListView_Copy_Copy" ViewId="Projekt_ListView" ObjectKey="" Caption="Projekt Clone" IsNewNode="True" />
+          <Item Id="Projekt_ListView_Copy_Copy_Copy" ViewId="Projekt_ListView" ObjectKey="" Caption="Projekt Clone" IsNewNode="True" />
+          <Item Id="Projekt_ListView_Copy_Copy_Copy_Copy" ViewId="Projekt_ListView" ObjectKey="" Caption="Projekt Clone" IsNewNode="True" />
+          <Item Id="Projekt_ListView_Copy_Copy_Copy_Copy_Copy" ViewId="Projekt_ListView" ObjectKey="" Caption="Projekt Clone" IsNewNode="True" />
+          <Item Id="Zadanie_ListView" BeginGroup="True" />
+          <Item Id="Zadanie_ListView_Copy" ViewId="Zadanie_ListView" ObjectKey="" Caption="Zadanie Clone" BeginGroup="True" IsNewNode="True" />
+          <Item Id="Zadanie_ListView_Copy_Copy" ViewId="Zadanie_ListView" ObjectKey="" Caption="Zadanie Clone" IsNewNode="True" />
+          <Item Id="Zadanie_ListView_Copy_Copy_Copy" ViewId="Zadanie_ListView" ObjectKey="" Caption="Zadanie Clone" IsNewNode="True" />
+          <Item Id="Zadanie_ListView_Copy_Copy_Copy_Copy" ViewId="Zadanie_ListView" ObjectKey="" Caption="Zadanie Clone" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="12.1.10.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
