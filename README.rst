@@ -18,11 +18,11 @@ This is a feature for **DevExpress eXpressAppFramework (XAF)** that provides Sep
 
 **Significant files:**
 
-+ SampleProject.Module\\Infrastructure\\NavigationItemSeparator\\SeparatorModelExtenders.cs   (new)
-+ SampleProject.Module\\Module.cs   - modified ExtendModelInterfaces()
-+ SampleProject.Module.Web\\Infrastructure\\ModelExtenders\\NavigationItemController.cs   (new)
-+ SampleProject.Web\\Default.aspx   - modified head section
-+ SampleProject.Web\\style.css   (new)
++ SampleProject.Module\\Infrastructure\\NavigationItemSeparator\\SeparatorModelExtenders.cs   *(new)*
++ SampleProject.Module\\Module.cs   *- modified ExtendModelInterfaces()*
++ SampleProject.Module.Web\\Infrastructure\\ModelExtenders\\NavigationItemController.cs   *(new)*
++ SampleProject.Web\\Default.aspx   *- modified head section*
++ SampleProject.Web\\style.css   *(new)*
 
 ------------
 Installation
